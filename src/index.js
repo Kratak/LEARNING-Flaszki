@@ -6,7 +6,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <span>Flaszki</span>
+      <span>Flash/ki</span>
     </div>
   );
 }
