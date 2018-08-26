@@ -1,2 +1,0 @@
-# Flaszki
-Created with CodeSandbox
